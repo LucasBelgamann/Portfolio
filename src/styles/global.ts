@@ -7,9 +7,9 @@ export default createGlobalStyle`
     box-sizing: border-box;
     scroll-behavior: smooth;
     text-decoration: none;
-    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    transition-duration: 880ms;
+    transition-duration: 40ms; 
   }
 
   body {
