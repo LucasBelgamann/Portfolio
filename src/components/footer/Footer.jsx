@@ -21,7 +21,7 @@ function Footer() {
             <input
               type="hidden"
               name="redirectTo"
-              value="https://portfolio-beta-navy.vercel.app/#footer"
+              value="https://agostinhoportfolio.vercel.app/ "
             ></input>
           </div>
           <div className="btns">
